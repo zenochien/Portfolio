@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "Hello! I'm Chien, a Deaf developer whose native language is Vietnamese Sign Language (VSL). I have a passion for working with computers, from researching new cloud trends, learning new technologies, to exploring ways to integrate logic and communication. As a Cloud Engineer, I specialize in designing, developing, and managing cloud-based computing systems. I have a solid understanding of the technical aspects of cloud computing and hands-on experience with AWS, where I design, implement, and maintain cloud-based solutions. My DevOps experience includes CI/CD, Docker, and managing Linux servers and microservices architectures. I am skilled in relational and non-relational database analysis, design, and administration using MySQL, MariaDB, MongoDB, PostgreSQL, and Firebase. I am a proactive, self-taught, and innovative professional, adaptable in communicating and collaborating effectively with teams and clients through technology. I am committed to delivering high-quality solutions, leveraging my analytical and problem-solving skills. I am passionate about software development, sharing knowledge, and implementing digital solutions for successful project delivery.",
+    "section_name": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Education & Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most extensive application I had the opportunity to work on. I learned a lot of technologies and my code was reviewed by a great mentor. The application handles all adoption processes and allows for storing all documentation related to the adoption of animals from the shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for a university course. I was responsible for testing an application that optimizes photos using popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I received an A for this project :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first applications I worked on during my internship. I had to prepare the front-end for an application that displays 3D models of famous buildings. This was also my first project using the Angular framework. I learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "AWS Co., Ltd",
+      "title": "Cloud Engineer",
+      "years": "10.2023 - Present",
+      "mainTech": [
+        "Engineer"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "C2C Tech Hub Co., Ltd",
+      "title": "DevOps Intern",
+      "years": "01.2022 - 11.2023",
+      "mainTech": [
+        "Intern"
+      ],
+      "technologies": [
+        "K8s",
+        "AWS",
+        "Docker",
+        "GitHub",
+        "Ansible",
+        "Grafana",
+        "Jenkins",
+        "NodeJS",
+        "Python"
+      ]
+    },
+    {
+      "company": "TK25 - GANNHA.COM Co., Ltd",
+      "title": "Back-end Intern",
+      "years": "01.2019 - 09.2019",
+      "mainTech": [
+        "Intern"
+      ],
+      "technologies": [
+        "REST API",
+        ".NET SDK",
+        "CRUD API",
+        "JavaScript",
+        "Angular"
+      ]
+    },
+    {
+      "company": "Nguyen Tat Thanh University",
+      "title": "Bachelor of Information Technology",
+      "years": "2016 - 2020",
+      "mainTech": [
+        "University"
+      ],
+      "technologies": [
+        "C#",
+        "PHP",
+        "PHP Laravel",
+        "JavaScript",
+        ".NET"
+      ]
+    }
+  ]
+}
